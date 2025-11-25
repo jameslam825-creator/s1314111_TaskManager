@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="menu_about">About</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="priority">Priority</string>
+    <string name="about_app_name">Task Manager Pro</string>
+    <string name="about_version">Version 1.0</string>
+    <string name="about_description">A simple and efficient task management application that helps you organize your daily tasks with priority levels and due dates.</string>
+</resources>
